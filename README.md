@@ -6,3 +6,8 @@
 - Data Insights and Presentation: Using visualizations to present insights. [pdf](https://github.com/MichelleTram/MichellePort.github.io/blob/43bce286e1e44eae1a8978b20896775374bc3ac0/1.%20CUSTOMER%20SEGMENTS%20REPORT.pdf) and [Power BI](https://github.com/MichelleTram/MichellePort.github.io/blob/43bce286e1e44eae1a8978b20896775374bc3ac0/3.%20CUSTOMER%20SEGMENTS%20%7C%20DASHBOARD.pbix)
 #### Task 1,2 will be entirely done by using Python (pandas, matplotlib and seaborn); task 3 will be done by using power BI.
 
+2. Telco customer churn analysis: The primary objective of this project is to extract valuable insights and devise actionable solutions to effectively tackle the issue of customer churn. The approach will involve the following key steps:
+- Data understanding.
+- Conducting an in-depth analysis to uncover the underlying drivers behind customer churn.
+- Constructing a linear regression model to predict the churn score of customers for the upcoming quarter.
+#### Through this well-structured plan, the goal is to gain a deeper understanding of customer churn and implement strategies that will lead to improved customer retention and business success: [analysis](https://colab.research.google.com/drive/1xerbRib6_IGz4AiO6lqADpb4X3T9QCtb?usp=sharing)
