@@ -8,7 +8,7 @@
 - Task 1,2 will be entirely done by using Python (pandas, matplotlib and seaborn); task 3 will be done by using power BI.
 
 ## 2. Telco customer churn analysis: 
-- The primary objective of this project is to extract valuable insights and devise actionable solutions to effectively tackle the issue of customer churn. The approach will involve the following key steps which will be completed by using Python (pandas, matplotlib and seaborn, profiling)
+- The primary objective of this project is to extract valuable insights and devise actionable solutions to effectively tackle the issue of customer churn. The approach will involve the following key steps which will be completed by using Python (pandas, matplotlib and seaborn, profiling):
 - Data understanding.
 - Conducting an in-depth analysis to uncover the underlying drivers behind customer churn.
 - Constructing a linear regression model to predict the churn score of customers for the upcoming quarter.
