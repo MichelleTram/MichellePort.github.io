@@ -12,8 +12,8 @@
   + Power BI: data modeling, data visualization.
 
 ## 2. Telco customer churn analysis: 
-- Description: The primary objective of this project is to extract valuable insights and devise actionable solutions to effectively tackle the issue of customer churn.
-- Task: the approach will involve the following key steps which will be completed by using Python:
+- Description: The primary objective of this project is to extract valuable insights and devise actionable solutions to effectively tackle the issue of customer churn. The approach will involve the following key steps which will be completed by using Python
+- Task: 
   + Data understanding.
   + Conducting an in-depth analysis to uncover the underlying drivers behind customer churn.
   + Constructing a linear regression model to predict the churn score of customers for the upcoming quarter.
@@ -36,7 +36,7 @@
 - Tasks:
   + Data Standardization with Power Query: utilized Power Query to process the data in the "Data" file, ensuring its uniformity and consistency through standardization techniques.
   + Visualization with Power BI: created various common charts using Power View, effectively presenting the processed data in an easily understandable visual format.
-  + Sales Volume Report (2018 – 2020): compiled a comprehensive report detailing the company's sales volume over the span of three years (2018 – 2020).
+  + Sales Volume Report (2018 – 2020): compiled a comprehensive report detailing the company's sales volume over the span of three years (2018 – 2020). [PDF Preview]() and [Dashboard]()
 - Skills applied:
   + Power BI: data modeling, data visualization.
   + Power Query: data transformation.
