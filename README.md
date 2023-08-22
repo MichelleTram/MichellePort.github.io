@@ -31,7 +31,7 @@
   + SQL: data aggregation, subqueries, data filtering and sorting
   + Tableau: data connection, calculations, data processing, data visualization.
  
-## 4. Project: Data Processing and Visualization for Company Alpha
+4. Project: Data Processing and Visualization for Company Alpha
 - Description: In this project, I worked for Company Alpha (fictional client), a provider of electronic products, to process and visualize their data using Microsoft Power Query and Power BI. The project involved three Excel files (Data, New, Shipdate) and the company's logo file.
 - Tasks:
   + Data Standardization with Power Query: utilized Power Query to process the data in the "Data" file, ensuring its uniformity and consistency through standardization techniques.
