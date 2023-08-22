@@ -50,7 +50,7 @@
   + Time and Segment Slicers: creating slicers for time (Date), product groups (Category), and segments (Segment).
   + Average Selling Price Calculation: computing the average selling price for each product across the entire company.
   + Mobile Interface Design: designing a user-friendly mobile interface.
-  + [PDF Preview](https://github.com/MichelleTram/MichellePort.github.io/blob/dfef81b0a7fe19ce67fbae7ace40bb32c659a5c3/1.%20SALE%20REPORT.pdf) and [Dashboard] (https://github.com/MichelleTram/MichellePort.github.io/blob/dfef81b0a7fe19ce67fbae7ace40bb32c659a5c3/2.%20SALE%20REPORT%20%7C%20DASHBOARD.pbix)
+  + [PDF Preview](https://github.com/MichelleTram/MichellePort.github.io/blob/dfef81b0a7fe19ce67fbae7ace40bb32c659a5c3/1.%20SALE%20REPORT.pdf) and [Dashboard](https://github.com/MichelleTram/MichellePort.github.io/blob/dfef81b0a7fe19ce67fbae7ace40bb32c659a5c3/2.%20SALE%20REPORT%20%7C%20DASHBOARD.pbix)
 - Skills applied:
   + Data integration, data modeling.
   + Data analysis and calculation.
