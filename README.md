@@ -16,7 +16,8 @@ The primary objective of this project is to extract valuable insights and devise
 
 ## 3. Pizza sales analysis
 The primary objective of this project is to analyze key indicators for pizza sales data to gain insights into business performance. The approach will involve the following key steps:
+- Problem Statement: [PDF]
 - Data exploration using [SQL](https://github.com/MichelleTram/MichellePort.github.io/blob/fb3bd3412b7f5fa758295e753afb570766cb66af/Pizza.sql)
-- Data visualiztion using [Tableau] 
+- Data processing and visualiztion using [Tableau] 
 ## 4. 
 ## 5.
