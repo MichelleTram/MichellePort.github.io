@@ -41,4 +41,17 @@
   + Power BI: data modeling, data visualization.
   + Power Query: data transformation.
  
-## 5.
+## 5. Company ABC - Sales Analysis Report
+- Description: The Sales Department of Company ABC required the creation of a comprehensive Sales Analysis Report, focusing on revenue analysis over time and across different segments.
+- Task:
+  + Data Connection: establishing data connectivity to relevant data sources.
+  + Data Modeling: constructing a robust data model for analysis.
+  + Sales Report Generation: developing a detailed sales report with insights.
+  + Time and Segment Slicers: creating slicers for time (Date), product groups (Category), and segments (Segment).
+  + Average Selling Price Calculation: computing the average selling price for each product across the entire company.
+  + Mobile Interface Design: designing a user-friendly mobile interface.
+  + [PDF Preview] and [Dashboard]
+- Skills applied:
+  + Data integration, data modeling.
+  + Data analysis and calculation.
+  + User interface design.
