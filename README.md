@@ -36,7 +36,7 @@
 - Tasks:
   + Data Standardization with Power Query: utilized Power Query to process the data in the "Data" file, ensuring its uniformity and consistency through standardization techniques.
   + Visualization with Power BI: created various common charts using Power View, effectively presenting the processed data in an easily understandable visual format.
-  + Sales Volume Report (2018 – 2020): compiled a comprehensive report detailing the company's sales volume over the span of three years (2018 – 2020). [PDF Preview]() and [Dashboard]()
+  + Sales Volume Report (2018 – 2020): compiled a comprehensive report detailing the company's sales volume over the span of three years (2018 – 2020). [PDF Preview](https://github.com/MichelleTram/MichellePort.github.io/blob/b5b16ad4a9edd26dab9ce0d56f487e942d988ae1/1.%20QUANTITY%20REPORT.pdf) and [Dashboard]()
 - Skills applied:
   + Power BI: data modeling, data visualization.
   + Power Query: data transformation.
