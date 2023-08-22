@@ -18,6 +18,6 @@
 ## 3. Pizza sales analysis
 - The primary objective of this project is to analyze key indicators for pizza sales data to gain insights into business performance. The approach will involve the following key steps:
 - Data exploration using [SQL]
-- Data Visualiztion using [Tableau] 
+- Data visualiztion using [Tableau] 
 ## 4. 
 ## 5.
