@@ -1,8 +1,0 @@
-# The KPMG AU Data Analytics Virtual Internship is designed to simulate a real-world data analytics project. 
-## Participants will work on a fictional client project, analyzing data and providing insights to drive business decisions.
-## This project is a part of The KPMG Data Analytics Virtual Internship. What I do in this project includes: https://colab.research.google.com/drive/1y-izqnwTvoAtKY31lNRyshe-aP7AjGPB?usp=sharing
-- 1. Data Quality Assessment: Assessment of data quality and completeness in preparation for analysis
-- 2. Data Insights: Targeting high-value customers based on customer demographics and attributes.
-- 3. Data Insights and Presentation: Using visualizations to present insights.
-Task 1,2 will be entirely done by using Python (pandas, matplotlib and seaborn); task 3 will be done by using power BI.
-
