@@ -4,5 +4,5 @@
 - Data Quality Assessment: Assessment of data quality and completeness in preparation for analysis: [EDA](https://colab.research.google.com/drive/1y-izqnwTvoAtKY31lNRyshe-aP7AjGPB?usp=sharing)
 - Data Insights: Targeting high-value customers based on customer demographics and attributes. [Analysis](https://colab.research.google.com/drive/1y-izqnwTvoAtKY31lNRyshe-aP7AjGPB?usp=sharing)
 - Data Insights and Presentation: Using visualizations to present insights.
-## Task 1,2 will be entirely done by using Python (pandas, matplotlib and seaborn); task 3 will be done by using power BI.
+#### Task 1,2 will be entirely done by using Python (pandas, matplotlib and seaborn); task 3 will be done by using power BI.
 
