@@ -21,17 +21,8 @@
 - Skills applied:
   + Statistics: descriptive statistics, inferential statistic.
   + Python: EDA using profling, churn analysis and visualization using matplotlib and seaborn, predicted churn score using a linear regression model.
-
-## 3. Pizza sales analysis
-- Description: the primary objective of this project is to analyze key indicators for pizza sales data to gain insights into business performance. The approach will involve the following key steps:
-- Task: [PDF](https://github.com/MichelleTram/MichellePort.github.io/blob/ec689fd43be23ca98f5058e15b5adbefc837546b/Pizza%20Sales_Problem%20Statement.pdf)
-  + Data exploration using [SQL](https://github.com/MichelleTram/MichellePort.github.io/blob/fb3bd3412b7f5fa758295e753afb570766cb66af/Pizza.sql)
-  + Data processing and visualiztion using [Tableau]
-- Skills applied:
-  + SQL: data aggregation, subqueries, data filtering and sorting
-  + Tableau: data connection, calculations, data processing, data visualization.
  
-## 4. Data processing and visualization for Company Alpha
+## 3. Data processing and visualization for Company Alpha
 - Description: In this project, I worked for Company Alpha (fictional client), a provider of electronic products, to process and visualize their data using Microsoft Power Query and Power BI. The project involved three Excel files (Data, New, Shipdate) and the company's logo file.
 - Tasks:
   + Data Standardization with Power Query: utilized Power Query to process the data in the "Data" file, ensuring its uniformity and consistency through standardization techniques.
@@ -41,7 +32,7 @@
   + Power BI: data modeling, data visualization.
   + Power Query: data transformation.
  
-## 5. Company ABC - Sales Analysis Report
+## 4. Company ABC - Sales Analysis Report
 - Description: The Sales Department of Company ABC required the creation of a comprehensive Sales Analysis Report, focusing on revenue analysis over time and across different segments.
 - Task:
   + Data Connection: establishing data connectivity to relevant data sources.
@@ -55,3 +46,12 @@
   + Data integration, data modeling.
   + Data analysis and calculation.
   + User interface design.
+
+## 5. Pizza sales analysis
+- Description: the primary objective of this project is to analyze key indicators for pizza sales data to gain insights into business performance. The approach will involve the following key steps:
+- Task: [PDF](https://github.com/MichelleTram/MichellePort.github.io/blob/ec689fd43be23ca98f5058e15b5adbefc837546b/Pizza%20Sales_Problem%20Statement.pdf)
+  + Data exploration using [SQL](https://github.com/MichelleTram/MichellePort.github.io/blob/fb3bd3412b7f5fa758295e753afb570766cb66af/Pizza.sql)
+  + Data processing and visualiztion using [Tableau](https://public.tableau.com/views/PizzaSales_16926993315390/ProductSales?:language=en-US&:display_count=n&:origin=viz_share_link)
+- Skills applied:
+  + SQL: data aggregation, subqueries, data filtering and sorting
+  + Tableau: data connection, calculations, data processing, data visualization.
