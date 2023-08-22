@@ -19,5 +19,10 @@ The primary objective of this project is to analyze key indicators for pizza sal
 - Problem Statement: [PDF](https://github.com/MichelleTram/MichellePort.github.io/blob/ec689fd43be23ca98f5058e15b5adbefc837546b/Pizza%20Sales_Problem%20Statement.pdf)
 - Data exploration using [SQL](https://github.com/MichelleTram/MichellePort.github.io/blob/fb3bd3412b7f5fa758295e753afb570766cb66af/Pizza.sql)
 - Data processing and visualiztion using [Tableau] 
-## 4. 
+## 4. Project: Data Processing and Visualization for Company Alpha
+- Description: In this project, I worked for Company Alpha (fictional client), a provider of electronic products, to process and visualize their data using Microsoft Power Query and Power BI. The project involved three Excel files (Data, New, Shipdate) and the company's logo file.
+- Tasks:
+  + Data Standardization with Power Query: utilized Power Query to process the data in the "Data" file, ensuring its uniformity and consistency through standardization techniques.
+  + Visualization with Power BI: created various common charts using Power BI, effectively presenting the processed data in an easily understandable visual format.
+  + Sales Volume Report (2018 – 2020): compiled a comprehensive report detailing the company's sales volume over the span of three years (2018 – 2020).
 ## 5.
