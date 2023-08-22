@@ -1,6 +1,6 @@
 # Michelle Portfolio
 
-## 1. KPMG Virtual Internship: 
+## 1. KPMG Virtual Internship
 - Description: The KPMG AU Data Analytics Virtual Internship is designed to simulate a real-world data analytics project. Participants will work on a fictional client project, analyzing data and providing insights to drive business decisions. Task 1,2 will be entirely done by using Python (pandas, matplotlib and seaborn); task 3 will be done by using power BI.
 - Task:
   + Data Quality Assessment: Assessment of data quality and completeness in preparation for analysis: [EDA](https://colab.research.google.com/drive/1y-izqnwTvoAtKY31lNRyshe-aP7AjGPB?usp=sharing)
@@ -11,7 +11,7 @@
   + Python: EDA using profling, cleaned data using pandas, visualized data using matlotlib and seaborn, RFM analysis.
   + Power BI: data modeling, data visualization.
 
-## 2. Telco customer churn analysis: 
+## 2. Telco customer churn analysis
 - Description: The primary objective of this project is to extract valuable insights and devise actionable solutions to effectively tackle the issue of customer churn. The approach will involve the following key steps which will be completed by using Python
 - Task: 
   + Data understanding.
@@ -32,7 +32,7 @@
   + Power BI: data modeling, data visualization.
   + Power Query: data transformation.
  
-## 4. Company ABC - Sales Analysis Report
+## 4. Company ABC - sales analysis report
 - Description: The Sales Department of Company ABC required the creation of a comprehensive Sales Analysis Report, focusing on revenue analysis over time and across different segments.
 - Task:
   + Data Connection: establishing data connectivity to relevant data sources.
