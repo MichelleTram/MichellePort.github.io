@@ -12,8 +12,7 @@ The primary objective of this project is to extract valuable insights and devise
 - Data understanding.
 - Conducting an in-depth analysis to uncover the underlying drivers behind customer churn.
 - Constructing a linear regression model to predict the churn score of customers for the upcoming quarter.
-- Through this well-structured plan, the goal is to gain a deeper understanding of customer churn and implement strategies that will lead to improved customer retention and business success: [analysis](https://colab.research.google.com/drive/1xerbRib6_IGz4AiO6lqADpb4X3T9QCtb?usp=sharing)
-
+- Through this well-structured plan, the goal is to gain a deeper understanding of customer churn and implement strategies that will lead to improved customer retention and business success: [analysis](https://colab.research.google.com/drive/1xerbRib6_IGz4AiO6lqADpb4X3T9QCtb?usp=sharing) 
 
 ## 3. Pizza sales analysis
 The primary objective of this project is to analyze key indicators for pizza sales data to gain insights into business performance. The approach will involve the following key steps:
